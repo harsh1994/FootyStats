@@ -1,6 +1,6 @@
 <?php
 //$con=oci_connect('userame','password','oracle_sid');
-$conn=oci_connect('hkothari','Harshini1994','oracle.cise.ufl.edu:1521/orcl');
+$conn=oci_connect('id','pwd','oracle.cise.ufl.edu:1521/orcl');
 // if($conn)
 // 	echo "Connection succeded";
 // else
